@@ -23,7 +23,7 @@
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
     "mongoose": "^8.16.1",
-    "next": "15.3.5",
+    "next": "15.3.8",
     "nodemailer": "^7.0.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
